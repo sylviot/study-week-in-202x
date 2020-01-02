@@ -7,3 +7,6 @@ Cronograma
 
 ## Progresso semanal
 - Semana 1 (Não iniciado)
+
+### Livros
+Aprendendo Padrões de Projeto em Python - Semana 1
