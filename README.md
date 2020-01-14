@@ -9,4 +9,5 @@ Cronograma
 - Semana 1 (Não iniciado)
 
 ### Livros
-Aprendendo Padrões de Projeto em Python - Semana 1
+- Aprendendo Padrões de Projeto em Python
+- Só Pode Ser Brincadeira, Sr. Feynman!
