@@ -10,6 +10,9 @@ Cronograma
 ### Semana 1
 - Aritmética
     - adição, subtração, multiplicação, divisão de fração
+### Semana 2 - Sítio
+
+### Semana 3
 
 ### Livros
 - Aprendendo Padrões de Projeto em Python
