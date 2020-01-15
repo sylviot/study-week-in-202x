@@ -12,4 +12,5 @@ Cronograma
     - adição, subtração, multiplicação, divisão de fração
 
 ### Livros
-Aprendendo Padrões de Projeto em Python - Semana 1
+- Aprendendo Padrões de Projeto em Python
+- Só Pode Ser Brincadeira, Sr. Feynman!
