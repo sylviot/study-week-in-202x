@@ -6,7 +6,10 @@ Tópico
 Cronograma
 
 ## Progresso semanal
-- Semana 1 (Não iniciado)
+
+### Semana 1
+- Aritmética
+    - adição, subtração, multiplicação, divisão de fração
 
 ### Livros
 Aprendendo Padrões de Projeto em Python - Semana 1
