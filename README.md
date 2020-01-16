@@ -1,19 +1,21 @@
-# study-52-week-in-2020
+<h1 align="center">Roteiro de 52 semanas estudando em 2020</h1>
 
-Estudo de 52 semanas durante o ano de 2020.
+Repositório para documentação do conteúdo estudado durante as 52 semanas do ano de 2020.
 
-Tópico
-Cronograma
+| Sexta | Sábado | Domingo | Segunda | Terça | Quarta | Quinta |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|_Estudo_ e **Planejamento**|**Produção**|**Produção**|_Estudo_|_Estudo_|_Estudo_|_Estudo_|
 
 ## Progresso semanal
 
 ### Semana 1
 - Aritmética
     - adição, subtração, multiplicação, divisão de fração
-### Semana 2 - Sítio
-
+### ~Semana 2 - Sítio~
 ### Semana 3
+_Em progresso_
 
-### Livros
-- Aprendendo Padrões de Projeto em Python
-- Só Pode Ser Brincadeira, Sr. Feynman!
+
+### Livros lido durante o ano de 2020
+- Aprendendo Padrões de Projeto em Python (168 páginas) - Semana 1
+- Só Pode Ser Brincadeira, Sr. Feynman! (400 páginas) - Semana 2 _(Ainda lendo)_
