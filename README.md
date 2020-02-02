@@ -15,9 +15,11 @@ Repositório para documentação do conteúdo estudado durante as 52 semanas do 
 ### Semana 3 [:memo:](./week-3/week-3.pdf) 
 - Geometria
     - retas, semirretas, segmento de retas com angulos
-### Semana 4
+### Semana 4 [:memo:](./week-4/week-4.pdf) 
+- Geometria
+  - teorema de Pitágoras
+### Semana 5
 _Em progresso_
-
 
 ### Livros lido durante o ano de 2020
 - :book: Aprendendo Padrões de Projeto em Python (168 páginas) - Semana 1
