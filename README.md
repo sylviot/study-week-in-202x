@@ -7,24 +7,15 @@ Repositório para documentação do conteúdo estudado durante as 52 semanas do 
 |_Estudo_ e **Planejamento**|**Produção**|**Produção**|_Estudo_|_Estudo_|_Estudo_|_Estudo_|
 
 ## Progresso semanal
-
-### Semana 1 [:memo:](./week-1/week-1.pdf)
-- Aritmética
-    - adição, subtração, multiplicação, divisão de fração
-### ~Semana 2 - Sítio~
-### Semana 3 [:memo:](./week-3/week-3.pdf) 
-- Geometria
-    - retas, semirretas, segmento de retas com angulos
-### Semana 4 [:memo:](./week-4/week-4.pdf) 
-- Geometria
-  - teorema de Pitágoras
-### ~Semana 5 - Publicação projeto produção(trabalho), mudança dos móveis e um pouco de procastinação antes das aulas~
-### Semana 6
-- Projeto sylvia (privado)
-    - jwt
-    - dotnet core 3.1
-    - signalr (websocket)
-
+| ### Semana |Conteúdo|
+|-----|-|
+|<h4>[Semana 1 :memo:](./week-1/week-1.pdf)</h4> | <strong>Aritmética</strong>: adição, subtração, multiplicação, divisão de fração|
+|<h4>Semana 2</h4> | ~Sítio~|
+|<h4>[Semana 3 :memo:](./week-3/week-3.pdf)</h4> | <strong>Geometria</strong>: retas, semirretas, segmento de retas com angulos|
+|<h4>[Semana 4 :memo:](./week-4/week-4.pdf)</h4> | <strong>Geometria</strong>: teorema de Pitágoras|
+|<h4>Semana 5 </h4> | ~<small>Publicação projeto produção(trabalho), mudança dos móveis <br>e um pouco de procastinação antes das aulas</small>~|
+|<h4>Semana 6</h4> | <strong>Projeto sylvia (privado)</strong>: jwt, dotnet core 3.1, signalr (websocket)|
+----
 ### Livros lido durante o ano de 2020
 - :book: Aprendendo Padrões de Projeto em Python (168 páginas) - Semana 1
 - :book: Só Pode Ser Brincadeira, Sr. Feynman! (400 páginas) - Semana 2,3,4,5 _(Ainda lendo)_
