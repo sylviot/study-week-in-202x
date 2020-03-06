@@ -13,6 +13,7 @@ Repositório para documentação do conteúdo estudado durante as 52 semanas do 
 |<h4>[Semana 3 :memo:](./week-3/week-3.pdf)</h4> | <strong>Geometria</strong>: retas, semirretas, segmento de retas com angulos|
 |<h4>[Semana 4 :memo:](./week-4/week-4.pdf)</h4> | <strong>Geometria</strong>: teorema de Pitágoras|
 |<h4>Semana 6</h4> | <strong>Projeto sylvia (privado)</strong>: jwt, dotnet core 3.1, signalr (websocket)|
+|<h4>Semana 7</h4> | <strong>[Projeto celeste](https://sylviot.github.io/game-study/CelesteMovement/Build/index.html) (público)</strong>: unity e efeitos de partículas|
 ----
 ### Livros lido durante o ano de 2020
 - :book: Aprendendo Padrões de Projeto em Python (168 páginas) - Semana 1
@@ -21,3 +22,4 @@ Repositório para documentação do conteúdo estudado durante as 52 semanas do 
 
 ### Projetos durante o ano de 2020
 - sylvia - Projeto privado para centralização de informações, ferramentas e outras coisas.
+- [game study](https://sylviot.github.io/game-study) - Projeto público de aprendizado de jogos digitais com Unity.
