@@ -20,6 +20,7 @@ Repositório para documentação do conteúdo estudado durante as 52 semanas do 
 - :book: Aprendendo Padrões de Projeto em Python (168 páginas) - Semana 1
 - :book: Só Pode Ser Brincadeira, Sr. Feynman! (395 páginas) - Semana 2,3,4,5,6
 - :book: A história química de uma vela: As forças da matéria, Faraday (222 páginas) - Semana 6 _(Lendo)_
+- :book: Os melhores textos de Richard P. Feynman (290 páginas) - Semana 38 _(Lendo)_
 
 ### Projetos durante o ano de 2020
 - sylvia - Projeto privado para centralização de informações, ferramentas e outras coisas.
