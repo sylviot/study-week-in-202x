@@ -23,6 +23,7 @@ Repositório para documentação do conteúdo estudado durante as 52 semanas do 
 - :book: A história química de uma vela: As forças da matéria, Faraday (222 páginas) - Semana 6 _(Lendo)_
 - :book: Os melhores textos de Richard P. Feynman (290 páginas) - Semana 38 _(Lendo)_
 - :book: O mítico homem-mês (281 páginas) - Semana 46 _(Lendo)_
+- :book: Design Patterns com C#: Aprenda padrões de projeto com os games (163 páginas) - Semana 48 _(Lendo)_
 
 ### Projetos durante o ano de 2020
 - sylvia - Projeto privado para centralização de informações, ferramentas e outras coisas.
