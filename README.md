@@ -5,6 +5,10 @@ Repositório para documentação do conteúdo estudado durante as 52 semanas de 
 | Sexta | Sábado | Domingo | Segunda | Terça | Quarta | Quinta |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |_Estudo_ e **Planejamento**|**Produção**|**Produção**|_Estudo_|_Estudo_|_Estudo_|_Estudo_|
+## Ano 2021 _(Progresso)_
+
+### Audiolivros escutados durante o ano de 2021
+- :musical_note::book: Aperte o f*da-se para ser feliz (4 horas 41 minutos)
 
 ## Ano 2020
 
