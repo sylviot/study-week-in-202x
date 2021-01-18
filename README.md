@@ -7,8 +7,11 @@ Repositório para documentação do conteúdo estudado durante as 52 semanas de 
 |_Estudo_ e **Planejamento**|**Produção**|**Produção**|_Estudo_|_Estudo_|_Estudo_|_Estudo_|
 ## Ano 2021 _(Progresso)_
 
+* [Projeto OGame remake :octocat:](https://sylviot.github.io/ogame-remake/dist/index.html) (público)</strong>: OGame remake com Fable (F#)
+
 ### Audiolivros escutados durante o ano de 2021
 - :musical_note::book: Aperte o f*da-se para ser feliz (4 horas 41 minutos)
+- :musical_note::book: iWoz - A verdadeira história da Apple segundo seu cofundador (13 horas 14 minutos)
 
 ## Ano 2020
 
