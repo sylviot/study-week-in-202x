@@ -12,6 +12,7 @@ Repositório para documentação do conteúdo estudado durante as 52 semanas de 
 ### Audiolivros escutados durante o ano de 2021
 - :musical_note::book: Aperte o f*da-se para ser feliz (4 horas 41 minutos)
 - :musical_note::book: iWoz - A verdadeira história da Apple segundo seu cofundador (13 horas 14 minutos)
+- :musical_note::book: Infiltrado na Klan (5 horas 48 minutos)
 
 ## Ano 2020
 
