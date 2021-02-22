@@ -2,16 +2,14 @@
 
 Repositório para documentação do conteúdo estudado durante as 52 semanas de cada ano durante 2020 - 2029.
 
-| Sexta | Sábado | Domingo | Segunda | Terça | Quarta | Quinta |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|_Estudo_ e **Planejamento**|**Produção**|**Produção**|_Estudo_|_Estudo_|_Estudo_|_Estudo_|
 ## Ano 2021 _(Progresso)_
 
 * [Projeto OGame remake :octocat:](https://sylviot.github.io/ogame-remake/dist/index.html) (público)</strong>: OGame remake com Fable (F#)
 
-### Audiolivros escutados durante o ano de 2021
+#### Audiolivros escutados durante o ano de 2021
 - :musical_note::book: Aperte o f*da-se para ser feliz (4 horas 41 minutos)
 - :musical_note::book: iWoz - A verdadeira história da Apple segundo seu cofundador (13 horas 14 minutos)
+- :musical_note::book: Aprendendo inglês - O segredo (1 hora e 22 minutos)
 - :musical_note::book: Infiltrado na Klan (5 horas 48 minutos)
 
 ## Ano 2020
@@ -24,8 +22,8 @@ Repositório para documentação do conteúdo estudado durante as 52 semanas de 
 * [Projeto Doom Fire :octocat:](https://sylviot.github.io/game-study/DoomFire2D/Build/index.html) (público)</strong>: unity e efeitos de fogo em 2D
 * [Projeto Smash Bros :octocat:](https://sylviot.github.io/game-study/SmashBrosMenu/Build/index.html) (público)</strong>: unity menu em 2D
 * [Curso de Machine Learning :octocat:](https://github.com/sylviot/machine-learning-courses) (público)</strong>: machine learning, deep learning, neural network
-----
-### Livros lido durante o ano de 2020
+
+#### Livros lido durante o ano de 2020
 - :book: Aprendendo Padrões de Projeto em Python (168 páginas)
 - :book: Só Pode Ser Brincadeira, Sr. Feynman! (395 páginas)
 - :book: A história química de uma vela: As forças da matéria, Faraday (222 páginas)
